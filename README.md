@@ -3,7 +3,7 @@ JB_cam
 
 A webcam script based on the Raspberry Pi and the original Raspberry Pi Camera
 
-Due to some request I published this basic webcam script.
+Due to some requests I published this basic webcam script.
 
 #INFO
 At the moment the comments in the sourcecode are only in German.
