@@ -5,6 +5,12 @@ A webcam script based on the Raspberry Pi and the original Raspberry Pi Camera
 
 Due to some request I published this basic webcam script.
 
+#INFO
+At the moment the comments in the sourcecode are only in German.
+I will fix this soon.
+
+Contact: http://www.joernbrauns.de/kontakt/
+
 #DEMO#
 http://www.joernbrauns.de/webcam/
 
