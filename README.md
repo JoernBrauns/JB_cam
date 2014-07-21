@@ -40,3 +40,8 @@ sudo chmod u+x /home/pi/timelapsefull.sh
   01 19 * * * /home/pi/timelapse.sh
   40 19 * * * /home/pi/timelapsefull.sh
 ```
+##Create folders##
+```
+mkdir snapshots
+mkdir snapshotsfull
+```
