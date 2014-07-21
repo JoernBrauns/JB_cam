@@ -30,6 +30,11 @@ sudo chmod u+x /home/pi/cam.sh
 sudo chmod u+x /home/pi/timelapse.sh
 sudo chmod u+x /home/pi/timelapsefull.sh
 ```
+##Create folders##
+```
+mkdir snapshots
+mkdir snapshotsfull
+```
 ##Install cronjob##
 ```
   crontab -e
@@ -39,9 +44,4 @@ sudo chmod u+x /home/pi/timelapsefull.sh
   00 19 * * * /home/pi/cam.sh
   01 19 * * * /home/pi/timelapse.sh
   40 19 * * * /home/pi/timelapsefull.sh
-```
-##Create folders##
-```
-mkdir snapshots
-mkdir snapshotsfull
 ```
